@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="French_Violet">#6209D4</color>
+    <color name="Purple_400">#7E57C2</color>
+    <color name="TurqoiseSurf">#08C6CD</color>
+    <color name="OrangeYellow">#FECD70</color>
+    <color name="Red_A700">#D50000</color>
+    <color name="Purple_A700">#AA00FF</color>
+    <color name="Blue_A700">#2962FF</color>
+    <color name="Green_A700">#00C853</color>
+    <color name="Yellow_A700">#FFD600</color>
+    <color name="Orange_A700">#FF6D00</color>
+    <color name="Gray_500">#9E9E9E</color>
+</resources>
